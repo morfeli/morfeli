@@ -1,5 +1,5 @@
 - 👋 Hello, I’m Felipe.
-- 📫 How to reach me -> Gmail: morfelidev@gmail.com | Discord: morfeli#5006 | Twitter: @morfelidev
+- 📫 How to reach me -> morfelidev@gmail.com | Discord: morfeli#5006 | X: @morfelidev
 
 <!---
 morfeli/morfeli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
