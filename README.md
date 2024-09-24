@@ -1,7 +1,7 @@
 # 👋 Hello, I’m Felipe!
 - 🌴 Based in Miami, FL
 - 💼 Software Engineer @Butane
-- 🍎 I'm currently learning Swift and leveling up my Typescript skills
+- 🍎 I'm currently learning Swift and leveling up in Typescript
 - ⚙️ Contributing to Orbistry
 - 📫 How to reach me -> morfelidev@gmail.com | X: @morfelidev
 <!---
