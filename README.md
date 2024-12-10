@@ -1,6 +1,6 @@
 # 👋 Hello, I’m Felipe!
 - 🌴 Based in Miami, FL
-- 💼 Software Engineer @Butane
+- 💼 Software Engineer @ButaneProtocol | @MetaDEX
 - 🍎 I'm currently learning Golang
 - 📫 How to reach me -> morfelidev@gmail.com | X: @morfelidev
 <!---
