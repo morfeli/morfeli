@@ -1,7 +1,7 @@
 # 👋 Hello, I’m Felipe!
 - 🌴 Based in Miami, FL
-- 💼 Software Engineer @ButaneProtocol
-- 🍎 I'm currently learning Golang
+- 💼 Software Engineer @Butane
+- 🍎 I'm currently learning iOS development
 - 📫 How to reach me -> morfelidev@gmail.com | X: @morfelidev
 <!---
 morfeli/morfeli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
