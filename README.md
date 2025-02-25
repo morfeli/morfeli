@@ -1,6 +1,5 @@
 # 👋 Hello, I’m Felipe!
 - 🌴 Based in Miami, FL
-- 💼 Software Engineer @Butane
 - 🍎 I'm currently learning iOS development
 - 📫 How to reach me -> morfelidev@gmail.com | X: @morfelidev
 <!---
