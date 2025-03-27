@@ -1,4 +1,3 @@
-# 👋 Hello, I’m Felipe!
 - 🌴 Based in Miami, FL
 - 🍎 I'm currently learning iOS development
 - 📫 How to reach me -> morfelidev@gmail.com | X: @morfelidev
