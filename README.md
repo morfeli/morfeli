@@ -1,5 +1,5 @@
 - 🌴 Based in Miami, FL
-- 🍎 I'm currently learning iOS development
+- 🍎 Learning Elixir
 - 📫 How to reach me -> morfelidev@gmail.com | X: @morfelidev
 <!---
 morfeli/morfeli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
